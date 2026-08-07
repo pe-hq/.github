@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92.57" height="40" viewBox="0 0 92.57 40.0" fill="none" role="img">
+  <defs>
+    <linearGradient id="peMarkGradient" x1="15.5" y1="12" x2="49.5" y2="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5D68E4" />
+      <stop offset="0.45" stop-color="#7686FF" />
+      <stop offset="1" stop-color="#BC67EA" />
+    </linearGradient>
+  </defs>
+  <g transform="translate(-15.5 -12) scale(1)">
+    <path
+      d="M21 12 H26.5 V46.5 A5.5 5.5 0 0 1 21 52 A5.5 5.5 0 0 1 15.5 46.5 V17.5 A5.5 5.5 0 0 1 21 12 Z M21.5 12 H35.5 A14 14 0 0 1 35.5 40 H21.5 Z M42.5 26 A7 7 0 0 0 28.5 26 A7 7 0 0 0 42.5 26 Z"
+      fill="url(#peMarkGradient)"
+    />
+    <circle cx="35.5" cy="26" r="2.6" fill="#F4944D" />
+  </g>
+  <path
+    d="M48.0 35.0H53.66V24.03H60.34C65.83 24.03 69.94 20.43 69.94 14.81V14.21C69.94 8.6 66.0 5.0 60.34 5.0H48.0ZM53.66 18.89V10.14H59.79C62.49 10.14 64.29 11.73 64.29 14.3V14.73C64.29 17.3 62.44 18.89 59.79 18.89Z M73.03 35.0H92.57V29.86H78.69V22.44H91.11V17.3H78.69V10.14H92.31V5.0H73.03Z"
+    fill="#FFFFFF"
+  />
+</svg>
