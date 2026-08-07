@@ -14,11 +14,14 @@
   >
 </picture>
 <div align="center">
-<a href="https://opensource.org/license/BSD-3-Clause">
-  <img src="./assets/peLicense.svg">
-</a>
-<img align="right" height="150px" src="./assets/peMascot_M.svg">
+<a href="https://opensource.org/license/BSD-3-Clause"><img src="./assets/peLicense.svg"></a>
+<a href="./"><img src="./assets/pePython.svg"></a>
+<a href="https://github.com/nashiuso"><img src="./assets/peCredits.svg"></a>
+<a href="./"><img src="./assets/peWebsite.svg"></a>
+
 </div>
+  
+<img align="right" height="150px" src="./assets/peMascot_M.svg">
 <br>
 <p>
   One engine for photo editing, image processing, APIs, and developer tools.
