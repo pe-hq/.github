@@ -28,5 +28,3 @@
 
   <i><adress> photoeditor-dev@protonmail.com </adress></i>
 </p>
-
-
